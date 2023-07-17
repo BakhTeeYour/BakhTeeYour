@@ -16,5 +16,4 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/8ba31968-5aa0-43c8-beac-5bd89a4c9275.svg)](https://wakatime.com/@8ba31968-5aa0-43c8-beac-5bd89a4c9275)
-8ba31968-5aa0-43c8-beac-5bd89a4c9275
 ## 📫 How to reach me: [telegram](https://t.me/BakhAchelov)
