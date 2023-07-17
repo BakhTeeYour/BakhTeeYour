@@ -15,6 +15,6 @@
 ![Node](https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node&logoColor=white)
 
 
-[![wakatime](https://wakatime.com/badge/user/0b091e11-b83e-455a-b83b-12c1937cd882.svg)](https://wakatime.com/@8ba31968-5aa0-43c8-beac-5bd89a4c9275)
-
+[![wakatime](https://wakatime.com/badge/user/8ba31968-5aa0-43c8-beac-5bd89a4c9275.svg)](https://wakatime.com/@8ba31968-5aa0-43c8-beac-5bd89a4c9275)
+8ba31968-5aa0-43c8-beac-5bd89a4c9275
 ## 📫 How to reach me: [telegram](https://t.me/BakhAchelov)
