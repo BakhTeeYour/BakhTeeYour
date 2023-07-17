@@ -1,16 +1,20 @@
 ### Hi there 👋
+### I am Ochilov Bakhtiyor, 26 y.o, Frontend Engineer
 
-<!--
-**BakhTeeYour/BakhTeeYour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=BakhTeeYour&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true")
 
-Here are some ideas to get you started:
+**Technologies stack:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blueviolet?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white)
+![Next](https://img.shields.io/badge/Next-orange?style=for-the-badge&logo=next&logoColor=white)
+![Node](https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node&logoColor=white)
+
+
+[![wakatime](https://wakatime.com/badge/user/0b091e11-b83e-455a-b83b-12c1937cd882.svg)](https://wakatime.com/@8ba31968-5aa0-43c8-beac-5bd89a4c9275)
+
+## 📫 How to reach me: [telegram](https://t.me/BakhAchelov)
