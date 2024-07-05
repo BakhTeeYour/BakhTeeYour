@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Ochilov Bakhtiyor, 26 y.o, Frontend Engineer
+### I am Ochilov Bakhtiyor, 27 y.o, Frontend Engineer
 
 **Technologies stack:**
 
