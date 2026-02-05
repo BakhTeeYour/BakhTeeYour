@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BakhTeeYour&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakhTeeYour&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=BakhTeeYour&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -76,8 +76,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BakhTeeYour&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 
