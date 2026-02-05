@@ -56,32 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BakhTeeYour&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakhTeeYour&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BakhTeeYour&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BakhTeeYour&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-
----
-
 ## ⏱ WakaTime
 
 [![wakatime](https://wakatime.com/badge/user/8ba31968-5aa0-43c8-beac-5bd89a4c9275.svg)](https://wakatime.com/@8ba31968-5aa0-43c8-beac-5bd89a4c9275)
